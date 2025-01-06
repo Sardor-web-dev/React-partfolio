@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import Btn from "../components/btnGithub/btn";
+import Btn from "../components/btnGithub/Btn";
 import { projects } from "../helpers/projectsList";
 
 const ProjectPage = () => {
