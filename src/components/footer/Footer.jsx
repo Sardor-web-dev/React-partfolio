@@ -2,7 +2,7 @@ import "./footer.css";
 import vk from "./../../img/icons/vk.svg"
 import instagram from "./../../img/icons/instagram.svg"
 import twitter from "./../../img/icons/twitter.svg"
-import github from "./../../img/icons/github.svg"
+import github from "./../../img/icons/gitHub.svg"
 import linkedIn from "./../../img/icons/linkedIn.svg"
 
 function Footer() {
