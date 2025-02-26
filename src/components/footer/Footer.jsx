@@ -12,11 +12,9 @@ function Footer() {
         <div className="container">
             <div className="footer__wrapper">
                 <ul className="social">
-                    <li className="social__item"><a href="#!"><img src={vk}/></a></li>
-                    <li className="social__item"><a href="#!"><img src={instagram} alt="Link"/></a></li>
-                    <li className="social__item"><a href="#!"><img src={twitter} alt="Link"/></a></li>
-                    <li className="social__item"><a href="#!"><img src={github} alt="Link"/></a></li>
-                    <li className="social__item"><a href="#!"><img src={linkedIn} alt="Link"/></a></li>
+                    <li className="social__item"><a href="https://www.instagram.com/sardor_djamolov7/" target="_blank"><img src={instagram} alt="Link"/></a></li>
+                    <li className="social__item"><a href="https://github.com/Sardor-web-dev" target="_blank"><img src={github} alt="Link"/></a></li>
+                    <li className="social__item"><a href= "https://www.linkedin.com/in/sardor-djamolov-913897347/" target="_blank"><img src={linkedIn} alt="Link"/></a></li>
                 </ul>
                 <div className="copyright">
                     <p>© 2025 frontend-dev.com</p>
